@@ -1,0 +1,1 @@
+This digital music store is a digital platform that showcases and distributes original instrumental music in various genres. It allows artists and listeners to browse beats, preview tracks, and preview instrumentals for their songs, videos, and/or other projects.
